@@ -1,25 +1,27 @@
-# Mahmoud K. Al-Ruweidi | Academic website
+# Mahmoud K. Al-Ruweidi | Research & Scholarship Website
 
-Official personal research and scholarship website: **https://malruweidi.github.io**
+Live site: **https://malruweidi.github.io/**
+Photo & video archive: **https://malruweidi.github.io/archive.html**
+Public academic profile: **https://malruweidi.github.io/cv.html**
 
-A zero-cost GitHub Pages website covering pharmaceutical sciences, mechanobiology, biomedical engineering, history of medicine, scientific writing, education, and academic service.
+## What is included
 
-## Contents
+- `index.html`: research portfolio, first-person narrative about curiosity and the origins of things, selected publications, scientific methods, writing, public record, and initiatives
+- `archive.html`: curated visual archive with 30 photographs, date labels, category filters, image viewer, and an archival video
+- `archive/*.jpg`: web-optimized photographs cropped from supplied personal files and archived Google Photos screenshots (interfaces removed)
+- `archive/archive-video-2016.mp4`: web-optimized silent copy of the supplied 5.5-second MOV file
+- `cv.html`: public academic profile omitting private phone number, home address, and referee details
+- `assets/*.svg`: original conceptual research illustrations; they are not experimental evidence
+- `sitemap.xml`, `robots.txt`, `.nojekyll`: GitHub Pages site configuration
 
-- `index.html`: responsive homepage, personal narrative, research projects, publications, and academic activities
-- `cv.html`: public academic CV; intentionally omits private contact details and referees
-- `assets/*.svg`: original conceptual scientific illustrations, expressly not experimental results
-- `robots.txt` and `sitemap.xml`: indexing metadata
-- `.nojekyll`: serves static HTML directly
+## Source dates, interpretation, and privacy
 
-Three original archive photographs are embedded in the homepage, with captions preserving their 2015 dates. Published papers are linked through DOI references, rather than reproducing publisher-controlled figures without verified permissions.
+Many photos came from 2026 screenshots of Google Photos. The displayed date labels are preserved in page captions and recorded as **archive display dates, not independently authenticated exposure timestamps**. The 2014 portrait is labeled with its filename date because original capture EXIF is absent. The photograph of a child using a computer is marked *date unverified* even though its filename includes April 2015. The archival video contains a file creation timestamp of December 25, 2016; the recording date and specimen identity were not independently verified.
 
-## Enable free hosting
+The video is deliberately served without audio. Original source photographs and the original MOV are *not* published; only optimized copies appear on the public website. If photographs depict colleagues or other identifiable people, consider permissions before continuing to circulate or promote them.
 
-Go to **Settings → Pages → Build and deployment → Deploy from a branch**. Select **main** and **/(root)**, then click **Save**.
+Published paper figures with uncertain republication rights have been replaced with original schematic illustrations that explicitly identify themselves as conceptual. Check publication details, images, and institutional attribution before further public dissemination.
 
-No paid domain, frameworks, server, database, or build process is required.
+## Hosting
 
-## Editorial safety
-
-Review scientific claims, figures, titles, publication status, and permissions before further public distribution. Current MSc experiments and historical research plans should not be presented as completed results. Majales/Zawya is described as an early-stage initiative, not a funded or launched company.
+Hosted on GitHub Pages using the public `main` branch and the repository root. No paid server or custom domain is necessary; deployment occurs automatically when the repository changes.
