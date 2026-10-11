@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malruweidi.github.io/sitemap.xml
